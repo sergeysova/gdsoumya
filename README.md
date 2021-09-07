@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on a few blockchain projects and [Litmus](https://github.com/litmuschaos/litmus)
+- 👨🏽‍💻 I’m currently contributing to [Litmus](https://github.com/litmuschaos/litmus) and a few blockchain projects
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on building DeFi/NFT platforms 🤝
 - 💬 Ask me about blockchains, dapps, chaos engineering, backend development or system design
